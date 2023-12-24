@@ -1,0 +1,2 @@
+# Senegal
+Republic of Senegal.
