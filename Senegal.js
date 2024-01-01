@@ -86,7 +86,15 @@ color: "teal"
 });
 });
 
+//previous page 
+function saoTome(){
+open("https://salmandascript.github.io/SaoTome&Principe/SaoTome.html");
+}
 
+//next page 
+function seychelles(){
+open("https://salmandascript.github.io/Seychelles/Seychelles.html");
+}
 
 //quizz questions code 
 function checkAnswer()
